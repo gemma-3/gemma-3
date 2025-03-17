@@ -38,4 +38,4 @@ Gemma 3 is provided with open weights and permits responsible commercial use. Se
 
 ---
 
-© 2024 Gemma 3. All rights reserved.
+© 2025 Gemma 3. All rights reserved.
